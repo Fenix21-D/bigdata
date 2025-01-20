@@ -1,0 +1,2 @@
+crear bk de la base de datos
+mongodump --db dimar --out E:\backups

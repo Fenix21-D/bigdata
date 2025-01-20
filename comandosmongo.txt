@@ -1,0 +1,8 @@
+crear bk de la base de datos
+mongodump --db dimar --out E:\backups
+
+
+restaurar base de datos
+mongorestore --db dimar E:\backups\dimar
+
+
